@@ -2,4 +2,4 @@ Códigos com a análise de dados do projeto "A Transformação do Trabalho do Jo
 
 Estudo feito a partir da base de dados RAIS, disponível em https://basedosdados.org/dataset/br-me-rais?bdm_table=microdados_vinculos.
 
-Início (Querys) feitos em Python. Tabelas tratadas (anexo) analisadas em R.
+Início (Querys.ipynb) feitos em Python. Tabelas tratadas (anexo) analisadas em R (Análise.R).
